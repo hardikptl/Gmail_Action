@@ -4,11 +4,6 @@
 This Project Automate Gmail login process. Test data coming from data provider that read data from excel file and feeds to test methods.
 Created github action for maven build and Test for continous integration.
 
-## continuous integration
-
-![Build](https://github.com/hardikptl/Gmail_Action/blob/main/.github/workflows/main.yml/badge.svg)
-[![Language: Java](https://img.shields.io/badge/Language-Java-orange.svg)](https://github.com/hardikptl/Gmail_Action)
-
 ## Features
 
 - Object-oriented design with Page Object Model (POM)
