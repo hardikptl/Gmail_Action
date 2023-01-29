@@ -6,7 +6,7 @@ Created github action for maven build and Test for continous integration.
 
 ## continuous integration
 
-[![Build](https://github.com/hardikptl/Gmail_Action/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/hardikptl/Gmail_Action/blob/main/.github/workflows/main.yml) 
+[![Build](https://github.com/hardikptl/Gmail_Action/blob/main/.github/workflows/maven.yml/badge.svg)]
 [![Language: Java](https://img.shields.io/badge/Language-Java-orange.svg)](https://github.com/hardikptl/Gmail_Action)
 
 ## Features
